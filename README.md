@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis — Bluemazon (2019)
+# 🛒 E-Commerce Sales Analysis — Bluemazon
 
 ## 📘 Overview
 **Bluemazon** is a fictional e-commerce company selling electronic products.  
